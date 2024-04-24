@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+sqlalchemy
+pymssql
+requests
+paramiko

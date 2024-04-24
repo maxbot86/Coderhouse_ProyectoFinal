@@ -1,0 +1,1115 @@
+2024-04-20 23:29:46,361 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-20 23:29:46,397 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-20 23:29:46,452 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-20 23:29:46,454 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-20 23:29:46,457 - climaAPI.clima - INFO - Date From: 2024-04-18
+2024-04-20 23:29:46,466 - climaAPI.clima - INFO - Date To: 2024-04-19
+2024-04-20 23:29:48,742 - climaAPI.clima - INFO - Read Weather OK
+2024-04-20 23:29:48,804 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-20 23:29:53,259 - climaAPI.clima - INFO - Connection - OK
+2024-04-20 23:30:11,547 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-20 23:30:11,591 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-20 23:30:11,594 - climaAPI.clima - INFO - END
+2024-04-20 23:30:35,951 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-20 23:30:35,953 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-20 23:30:35,955 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-20 23:30:35,956 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-20 23:30:35,957 - climaAPI.clima - INFO - Date From: 2024-04-18
+2024-04-20 23:30:35,958 - climaAPI.clima - INFO - Date To: 2024-04-19
+2024-04-20 23:30:35,970 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-20 23:30:35,972 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-20 23:30:35,974 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-20 23:30:35,975 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-20 23:30:35,976 - climaAPI.clima - INFO - Date From: 2024-04-18
+2024-04-20 23:30:35,979 - climaAPI.clima - INFO - Date To: 2024-04-19
+2024-04-20 23:30:36,857 - climaAPI.clima - INFO - Read Weather OK
+2024-04-20 23:30:36,883 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-20 23:30:36,993 - climaAPI.clima - INFO - Read Weather OK
+2024-04-20 23:30:37,011 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-20 23:30:43,367 - climaAPI.clima - INFO - Connection - OK
+2024-04-20 23:30:43,385 - climaAPI.clima - INFO - Connection - OK
+2024-04-20 23:31:06,904 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-20 23:31:06,912 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-20 23:31:06,914 - climaAPI.clima - INFO - END
+2024-04-20 23:31:21,314 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-20 23:31:21,336 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-20 23:31:21,352 - climaAPI.clima - INFO - END
+2024-04-20 23:33:54,965 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-20 23:33:54,967 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-20 23:33:54,969 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-20 23:33:54,970 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-20 23:33:54,972 - climaAPI.clima - INFO - Date From: 2024-04-18
+2024-04-20 23:33:54,979 - climaAPI.clima - INFO - Date To: 2024-04-19
+2024-04-20 23:33:55,923 - climaAPI.clima - INFO - Read Weather OK
+2024-04-20 23:33:55,949 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-20 23:34:02,337 - climaAPI.clima - INFO - Connection - OK
+2024-04-20 23:34:21,467 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-20 23:34:21,469 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-20 23:34:21,470 - climaAPI.clima - INFO - END
+2024-04-20 23:35:15,847 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-20 23:35:15,849 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-20 23:35:15,851 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-20 23:35:15,852 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-20 23:35:15,853 - climaAPI.clima - INFO - Date From: 2024-04-18
+2024-04-20 23:35:15,854 - climaAPI.clima - INFO - Date To: 2024-04-19
+2024-04-20 23:35:16,663 - climaAPI.clima - INFO - Read Weather OK
+2024-04-20 23:35:16,667 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-20 23:35:20,268 - climaAPI.clima - INFO - Connection - OK
+2024-04-20 23:35:33,109 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-20 23:35:33,117 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-20 23:35:33,121 - climaAPI.clima - INFO - END
+2024-04-21 02:04:40,727 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-21 02:04:40,733 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-21 02:04:40,743 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-21 02:04:40,762 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-21 02:04:40,791 - climaAPI.clima - INFO - Date From: 2024-04-19
+2024-04-21 02:04:40,820 - climaAPI.clima - INFO - Date To: 2024-04-20
+2024-04-21 02:04:41,898 - climaAPI.clima - INFO - Read Weather OK
+2024-04-21 02:04:41,947 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-21 02:04:45,715 - climaAPI.clima - INFO - Connection - OK
+2024-04-21 02:05:02,367 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-21 02:05:02,368 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-21 02:05:02,370 - climaAPI.clima - INFO - END
+2024-04-21 02:09:32,983 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-21 02:09:33,102 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-21 02:09:33,150 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-21 02:09:33,183 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-21 02:09:33,231 - climaAPI.clima - INFO - Date From: 2024-04-19
+2024-04-21 02:09:33,263 - climaAPI.clima - INFO - Date To: 2024-04-20
+2024-04-21 02:09:35,145 - climaAPI.clima - INFO - Read Weather OK
+2024-04-21 02:09:35,165 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-21 02:09:39,153 - climaAPI.clima - INFO - Connection - OK
+2024-04-21 02:10:07,299 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-21 02:10:07,316 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-21 02:10:07,336 - climaAPI.clima - INFO - END
+2024-04-21 02:19:01,481 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-21 02:19:01,493 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-21 02:19:01,526 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-21 02:19:01,558 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-21 02:19:01,577 - climaAPI.clima - INFO - Date From: 2024-04-19
+2024-04-21 02:19:01,606 - climaAPI.clima - INFO - Date To: 2024-04-20
+2024-04-21 02:19:02,900 - climaAPI.clima - INFO - Read Weather OK
+2024-04-21 02:19:02,909 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-21 02:19:06,224 - climaAPI.clima - INFO - Connection - OK
+2024-04-21 02:19:24,281 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-21 02:19:24,283 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-21 02:19:24,284 - climaAPI.clima - INFO - END
+2024-04-21 23:55:09,678 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-21 23:55:09,680 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-21 23:55:09,686 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-21 23:55:09,694 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-21 23:55:09,701 - climaAPI.clima - INFO - Date From: 2024-04-19
+2024-04-21 23:55:09,704 - climaAPI.clima - INFO - Date To: 2024-04-20
+2024-04-21 23:55:10,678 - climaAPI.clima - INFO - Read Weather OK
+2024-04-21 23:55:10,701 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-21 23:55:13,856 - climaAPI.clima - INFO - Connection - OK
+2024-04-21 23:55:27,096 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-21 23:55:27,190 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-21 23:55:27,253 - climaAPI.clima - INFO - END
+2024-04-23 11:56:53,550 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-23 11:56:53,552 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-23 11:56:53,553 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-23 11:56:53,555 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-23 11:56:53,556 - climaAPI.clima - INFO - Date From: 2024-04-21
+2024-04-23 11:56:53,557 - climaAPI.clima - INFO - Date To: 2024-04-22
+2024-04-23 11:56:53,574 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-23 11:56:53,577 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-23 11:56:53,591 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-23 11:56:53,606 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-23 11:56:53,632 - climaAPI.clima - INFO - Date From: 2024-04-21
+2024-04-23 11:56:53,634 - climaAPI.clima - INFO - Date To: 2024-04-22
+2024-04-23 11:56:54,607 - climaAPI.clima - INFO - Read Weather OK
+2024-04-23 11:56:54,628 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-23 11:56:54,660 - climaAPI.clima - INFO - Read Weather OK
+2024-04-23 11:56:54,672 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-23 11:56:59,233 - climaAPI.clima - INFO - Connection - OK
+2024-04-23 11:56:59,235 - climaAPI.clima - INFO - Connection - OK
+2024-04-23 11:57:17,246 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-23 11:57:17,336 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-23 11:57:17,362 - climaAPI.clima - INFO - END
+2024-04-23 11:57:50,647 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-23 11:57:50,663 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-23 11:57:50,699 - climaAPI.clima - INFO - END
+2024-04-23 20:26:18,082 - climaAPI.clima - INFO - Se configuro el LOGGING
+2024-04-23 20:26:18,785 - climaAPI.clima - INFO - Getting Weather Data
+2024-04-23 20:26:19,081 - climaAPI.clima - INFO - Coor. Latitude: -34.709396
+2024-04-23 20:26:19,234 - climaAPI.clima - INFO - Coor. Longitud: -58.279639
+2024-04-23 20:26:19,318 - climaAPI.clima - INFO - Date From: 2024-04-21
+2024-04-23 20:26:19,414 - climaAPI.clima - INFO - Date To: 2024-04-22
+2024-04-23 20:26:22,889 - climaAPI.clima - INFO - Read Weather OK
+2024-04-23 20:26:23,127 - climaAPI.clima - INFO - JSON->DF OK
+2024-04-23 20:26:27,406 - climaAPI.clima - INFO - Connection - OK
+2024-04-23 20:26:41,773 - climaAPI.clima - INFO - Reading Reg: 48
+2024-04-23 20:26:41,782 - climaAPI.clima - INFO - Add Rows - OK
+2024-04-23 20:26:41,784 - climaAPI.clima - INFO - END
+2024-04-23 20:34:50,847 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 20:34:50,864 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 20:34:50,880 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.709396
+2024-04-23 20:34:50,899 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.279639
+2024-04-23 20:34:50,928 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 20:34:50,963 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 20:34:51,725 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 20:34:51,772 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 20:34:51,838 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.709396
+2024-04-23 20:34:51,915 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.279639
+2024-04-23 20:34:52,000 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 20:34:52,033 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 20:34:53,211 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 20:34:53,270 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 20:34:53,557 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 20:34:53,661 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 20:34:57,766 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 20:34:57,960 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 20:35:21,669 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 20:35:21,671 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 20:35:21,672 - climaAPI.climaMOD - INFO - END
+2024-04-23 20:35:40,468 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 20:35:40,470 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 20:35:40,472 - climaAPI.climaMOD - INFO - END
+2024-04-23 20:38:17,759 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 20:38:25,875 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 20:38:25,877 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.709396
+2024-04-23 20:38:25,879 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.279639
+2024-04-23 20:38:25,881 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 20:38:25,882 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 20:38:26,691 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 20:38:26,696 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 20:38:30,250 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 20:38:42,334 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 20:38:42,339 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 20:38:42,343 - climaAPI.climaMOD - INFO - END
+2024-04-23 20:56:53,276 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 20:57:00,143 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 20:57:00,145 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 20:57:00,148 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 20:57:00,150 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 20:57:00,151 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 20:57:01,132 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 20:57:01,142 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 20:57:01,148 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 20:57:01,150 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.55825
+2024-04-23 20:57:01,153 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.3203777777778
+2024-04-23 20:57:01,156 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 20:57:01,168 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 20:57:02,083 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 20:57:02,088 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 20:57:02,095 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 20:57:02,104 - climaAPI.climaMOD - INFO - Coor. Latitude: -27.490836111111
+2024-04-23 20:57:02,107 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.9293
+2024-04-23 20:57:02,115 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 20:57:02,119 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 20:57:03,026 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 20:57:03,029 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 20:57:03,032 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 20:57:03,034 - climaAPI.climaMOD - INFO - Coor. Latitude: -29.41674
+2024-04-23 20:57:03,035 - climaAPI.climaMOD - INFO - Coor. Longitud:  -66.8560077
+2024-04-23 20:57:03,037 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 20:57:03,038 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 20:57:03,081 - climaAPI.climaMOD - ERROR - URL can't contain control characters. '/v1/forecast?latitude=-29.41674&longitude= -66.8560077&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,rain,wind_speed_10m&start_date=2024-04-21&end_date=2024-04-22' (found at least ' ')
+2024-04-23 21:00:59,572 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 21:01:10,632 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:10,735 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 21:01:10,801 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 21:01:10,838 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:10,900 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:12,690 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:12,709 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:12,768 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:12,785 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.55825
+2024-04-23 21:01:12,799 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.3203777777778
+2024-04-23 21:01:12,833 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:12,905 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:14,155 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:14,161 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:14,179 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:14,205 - climaAPI.climaMOD - INFO - Coor. Latitude: -27.490836111111
+2024-04-23 21:01:14,221 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.9293
+2024-04-23 21:01:14,287 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:14,290 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:15,391 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:15,394 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:15,397 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:15,398 - climaAPI.climaMOD - INFO - Coor. Latitude: -29.41674
+2024-04-23 21:01:15,407 - climaAPI.climaMOD - INFO - Coor. Longitud: -66.8560077
+2024-04-23 21:01:15,408 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:15,410 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:16,609 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:16,613 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:16,615 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:16,617 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.710725
+2024-04-23 21:01:16,627 - climaAPI.climaMOD - INFO - Coor. Longitud: -60.7819277777778
+2024-04-23 21:01:16,629 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:16,631 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:17,855 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:17,860 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:17,870 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:17,872 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.977775
+2024-04-23 21:01:17,873 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.4944361111111
+2024-04-23 21:01:17,875 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:17,886 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:18,893 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:18,923 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:18,933 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:18,939 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.9890416666667
+2024-04-23 21:01:18,944 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.5399861111111
+2024-04-23 21:01:18,947 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:18,950 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:20,121 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:20,151 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:20,175 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:20,189 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0388
+2024-04-23 21:01:20,213 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9054916666667
+2024-04-23 21:01:20,216 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:20,218 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:21,420 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:21,427 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:21,431 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:21,466 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0524527777778
+2024-04-23 21:01:21,467 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9815166666667
+2024-04-23 21:01:21,469 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:21,471 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:22,583 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:22,590 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:22,592 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:22,594 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.525925
+2024-04-23 21:01:22,595 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6195583333333
+2024-04-23 21:01:22,597 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:22,605 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:23,753 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:23,757 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:23,767 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:23,769 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.5320888888889
+2024-04-23 21:01:23,771 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6087027777778
+2024-04-23 21:01:23,775 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:23,777 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:24,810 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:24,814 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:24,818 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:24,820 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.860125
+2024-04-23 21:01:24,822 - climaAPI.climaMOD - INFO - Coor. Longitud: -57.9565777777778
+2024-04-23 21:01:24,828 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:24,829 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:25,759 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:25,762 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:25,765 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:25,769 - climaAPI.climaMOD - INFO - Coor. Latitude: -43.3607861111111
+2024-04-23 21:01:25,770 - climaAPI.climaMOD - INFO - Coor. Longitud: -65.1973944444444
+2024-04-23 21:01:25,771 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:25,773 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:26,614 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:26,621 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:26,627 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:01:26,631 - climaAPI.climaMOD - INFO - Coor. Latitude: -45.8541666666667
+2024-04-23 21:01:26,633 - climaAPI.climaMOD - INFO - Coor. Longitud: -67.9518611111111
+2024-04-23 21:01:26,634 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:01:26,636 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:01:27,502 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:01:27,505 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:01:30,931 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:01:46,821 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:01:46,822 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:01:46,824 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:05:41,463 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 21:05:50,115 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:50,117 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 21:05:50,118 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 21:05:50,119 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:50,122 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:50,935 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:50,940 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:50,946 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:50,948 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.55825
+2024-04-23 21:05:50,956 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.3203777777778
+2024-04-23 21:05:50,957 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:50,959 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:51,843 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:51,846 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:51,848 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:51,849 - climaAPI.climaMOD - INFO - Coor. Latitude: -27.490836111111
+2024-04-23 21:05:51,851 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.9293
+2024-04-23 21:05:51,853 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:51,855 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:52,675 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:52,677 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:52,678 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:52,679 - climaAPI.climaMOD - INFO - Coor. Latitude: -29.41674
+2024-04-23 21:05:52,680 - climaAPI.climaMOD - INFO - Coor. Longitud: -66.8560077
+2024-04-23 21:05:52,681 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:52,682 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:53,453 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:53,456 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:53,460 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:53,461 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.710725
+2024-04-23 21:05:53,463 - climaAPI.climaMOD - INFO - Coor. Longitud: -60.7819277777778
+2024-04-23 21:05:53,464 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:53,466 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:54,292 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:54,295 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:54,296 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:54,297 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.977775
+2024-04-23 21:05:54,300 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.4944361111111
+2024-04-23 21:05:54,301 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:54,302 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:55,107 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:55,110 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:55,112 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:55,114 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.9890416666667
+2024-04-23 21:05:55,116 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.5399861111111
+2024-04-23 21:05:55,117 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:55,119 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:55,911 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:55,914 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:55,916 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:55,919 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0388
+2024-04-23 21:05:55,920 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9054916666667
+2024-04-23 21:05:55,921 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:55,923 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:56,781 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:56,783 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:56,786 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:56,787 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0524527777778
+2024-04-23 21:05:56,788 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9815166666667
+2024-04-23 21:05:56,789 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:56,791 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:57,605 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:57,608 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:57,609 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:57,610 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.525925
+2024-04-23 21:05:57,613 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6195583333333
+2024-04-23 21:05:57,614 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:57,616 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:58,454 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:58,456 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:58,458 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:58,459 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.5320888888889
+2024-04-23 21:05:58,461 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6087027777778
+2024-04-23 21:05:58,462 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:58,463 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:05:59,269 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:05:59,295 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:05:59,316 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:05:59,318 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.860125
+2024-04-23 21:05:59,320 - climaAPI.climaMOD - INFO - Coor. Longitud: -57.9565777777778
+2024-04-23 21:05:59,322 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:05:59,325 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:06:00,331 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:06:00,338 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:06:00,340 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:06:00,343 - climaAPI.climaMOD - INFO - Coor. Latitude: -43.3607861111111
+2024-04-23 21:06:00,344 - climaAPI.climaMOD - INFO - Coor. Longitud: -65.1973944444444
+2024-04-23 21:06:00,346 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:06:00,352 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:06:01,313 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:06:01,317 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:06:01,319 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:06:01,325 - climaAPI.climaMOD - INFO - Coor. Latitude: -45.8541666666667
+2024-04-23 21:06:01,327 - climaAPI.climaMOD - INFO - Coor. Longitud: -67.9518611111111
+2024-04-23 21:06:01,329 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:06:01,330 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:06:02,518 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:06:02,520 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:06:06,072 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:06:22,507 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:06:22,509 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:06:22,511 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:11:52,301 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 21:11:58,930 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:11:58,931 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 21:11:58,933 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 21:11:58,934 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:11:58,935 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:11:59,865 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:11:59,868 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:14:57,515 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 21:15:06,687 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:06,709 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 21:15:06,724 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 21:15:06,756 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:06,801 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:08,333 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:08,342 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:08,399 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:08,413 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.55825
+2024-04-23 21:15:08,415 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.3203777777778
+2024-04-23 21:15:08,419 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:08,430 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:09,495 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:09,509 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:09,545 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:09,548 - climaAPI.climaMOD - INFO - Coor. Latitude: -27.490836111111
+2024-04-23 21:15:09,575 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.9293
+2024-04-23 21:15:09,577 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:09,592 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:10,814 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:10,821 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:10,847 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:10,849 - climaAPI.climaMOD - INFO - Coor. Latitude: -29.41674
+2024-04-23 21:15:10,850 - climaAPI.climaMOD - INFO - Coor. Longitud: -66.8560077
+2024-04-23 21:15:10,851 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:10,852 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:11,976 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:11,984 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:12,012 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:12,014 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.710725
+2024-04-23 21:15:12,022 - climaAPI.climaMOD - INFO - Coor. Longitud: -60.7819277777778
+2024-04-23 21:15:12,024 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:12,025 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:13,208 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:13,220 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:13,243 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:13,253 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.977775
+2024-04-23 21:15:13,255 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.4944361111111
+2024-04-23 21:15:13,259 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:13,261 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:14,412 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:14,417 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:14,431 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:14,433 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.9890416666667
+2024-04-23 21:15:14,434 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.5399861111111
+2024-04-23 21:15:14,436 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:14,437 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:15,382 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:15,385 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:15,397 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:15,399 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0388
+2024-04-23 21:15:15,400 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9054916666667
+2024-04-23 21:15:15,401 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:15,402 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:16,265 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:16,268 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:16,275 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:16,277 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0524527777778
+2024-04-23 21:15:16,278 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9815166666667
+2024-04-23 21:15:16,279 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:16,280 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:17,118 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:17,122 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:17,146 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:17,148 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.525925
+2024-04-23 21:15:17,150 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6195583333333
+2024-04-23 21:15:17,151 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:17,153 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:18,027 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:18,030 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:18,036 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:18,038 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.5320888888889
+2024-04-23 21:15:18,039 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6087027777778
+2024-04-23 21:15:18,040 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:18,041 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:18,866 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:18,868 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:18,880 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:18,881 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.860125
+2024-04-23 21:15:18,882 - climaAPI.climaMOD - INFO - Coor. Longitud: -57.9565777777778
+2024-04-23 21:15:18,883 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:18,884 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:19,717 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:19,719 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:19,732 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:19,734 - climaAPI.climaMOD - INFO - Coor. Latitude: -43.3607861111111
+2024-04-23 21:15:19,735 - climaAPI.climaMOD - INFO - Coor. Longitud: -65.1973944444444
+2024-04-23 21:15:19,736 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:19,739 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:20,580 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:20,583 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:20,590 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:15:20,592 - climaAPI.climaMOD - INFO - Coor. Latitude: -45.8541666666667
+2024-04-23 21:15:20,593 - climaAPI.climaMOD - INFO - Coor. Longitud: -67.9518611111111
+2024-04-23 21:15:20,594 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:15:20,597 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:15:21,424 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:15:21,431 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:15:24,568 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:15:38,415 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:15:38,417 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:15:38,418 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:20:34,719 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 21:20:41,750 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:41,766 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 21:20:41,803 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 21:20:41,835 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:41,864 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:43,116 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:43,137 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:43,465 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:43,472 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.55825
+2024-04-23 21:20:43,497 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.3203777777778
+2024-04-23 21:20:43,502 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:43,504 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:44,598 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:44,628 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:45,012 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:45,015 - climaAPI.climaMOD - INFO - Coor. Latitude: -27.490836111111
+2024-04-23 21:20:45,043 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.9293
+2024-04-23 21:20:45,046 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:45,061 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:45,927 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:45,932 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:45,986 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:45,988 - climaAPI.climaMOD - INFO - Coor. Latitude: -29.41674
+2024-04-23 21:20:45,989 - climaAPI.climaMOD - INFO - Coor. Longitud: -66.8560077
+2024-04-23 21:20:45,991 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:45,992 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:46,848 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:46,850 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:46,897 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:46,898 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.710725
+2024-04-23 21:20:46,899 - climaAPI.climaMOD - INFO - Coor. Longitud: -60.7819277777778
+2024-04-23 21:20:46,900 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:46,901 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:47,732 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:47,734 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:47,792 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:47,793 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.977775
+2024-04-23 21:20:47,796 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.4944361111111
+2024-04-23 21:20:47,797 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:47,799 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:48,696 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:48,699 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:48,795 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:48,797 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.9890416666667
+2024-04-23 21:20:48,798 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.5399861111111
+2024-04-23 21:20:48,800 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:48,801 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:49,677 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:49,681 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:49,754 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:49,757 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0388
+2024-04-23 21:20:49,758 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9054916666667
+2024-04-23 21:20:49,759 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:49,761 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:50,636 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:50,645 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:50,755 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:50,756 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0524527777778
+2024-04-23 21:20:50,758 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9815166666667
+2024-04-23 21:20:50,762 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:50,765 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:51,628 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:51,632 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:51,698 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:51,705 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.525925
+2024-04-23 21:20:51,709 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6195583333333
+2024-04-23 21:20:51,712 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:51,714 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:52,554 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:52,562 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:52,706 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:52,708 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.5320888888889
+2024-04-23 21:20:52,710 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6087027777778
+2024-04-23 21:20:52,712 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:52,715 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:53,813 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:53,819 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:53,925 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:53,931 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.860125
+2024-04-23 21:20:53,933 - climaAPI.climaMOD - INFO - Coor. Longitud: -57.9565777777778
+2024-04-23 21:20:53,934 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:53,937 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:55,057 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:55,064 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:55,142 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:55,143 - climaAPI.climaMOD - INFO - Coor. Latitude: -43.3607861111111
+2024-04-23 21:20:55,144 - climaAPI.climaMOD - INFO - Coor. Longitud: -65.1973944444444
+2024-04-23 21:20:55,146 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:55,147 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:55,989 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:55,991 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:20:56,038 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:20:56,039 - climaAPI.climaMOD - INFO - Coor. Latitude: -45.8541666666667
+2024-04-23 21:20:56,040 - climaAPI.climaMOD - INFO - Coor. Longitud: -67.9518611111111
+2024-04-23 21:20:56,041 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:20:56,051 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:20:56,889 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:20:56,892 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:21:00,249 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:21:16,957 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:21:16,959 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:21:16,960 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:23:50,949 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 21:24:00,222 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:24:00,224 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 21:24:00,226 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 21:24:00,227 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:24:00,229 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:24:01,168 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:24:01,176 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:24:05,385 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:24:21,288 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:24:21,289 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:24:21,290 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:24:21,292 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:24:21,293 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.55825
+2024-04-23 21:24:21,295 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.3203777777778
+2024-04-23 21:24:21,297 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:24:21,298 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:24:22,123 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:24:22,127 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:24:25,850 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:24:40,520 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:24:40,521 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:24:40,522 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:24:40,524 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:24:40,525 - climaAPI.climaMOD - INFO - Coor. Latitude: -27.490836111111
+2024-04-23 21:24:40,527 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.9293
+2024-04-23 21:24:40,528 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:24:40,529 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:24:41,347 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:24:41,350 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:24:44,539 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:25:10,384 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:25:10,385 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:25:10,387 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:25:10,388 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:25:10,389 - climaAPI.climaMOD - INFO - Coor. Latitude: -29.41674
+2024-04-23 21:25:10,391 - climaAPI.climaMOD - INFO - Coor. Longitud: -66.8560077
+2024-04-23 21:25:10,392 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:25:10,393 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:25:11,226 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:25:11,236 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:25:14,244 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:25:29,320 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:25:29,322 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:25:29,323 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:25:29,324 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:25:29,325 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.710725
+2024-04-23 21:25:29,326 - climaAPI.climaMOD - INFO - Coor. Longitud: -60.7819277777778
+2024-04-23 21:25:29,328 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:25:29,329 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:25:30,154 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:25:30,156 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:25:33,225 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:25:53,369 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:25:53,370 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:25:53,371 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:25:53,372 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:25:53,374 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.977775
+2024-04-23 21:25:53,375 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.4944361111111
+2024-04-23 21:25:53,378 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:25:53,380 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:25:54,216 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:25:54,218 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:25:58,488 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:26:24,856 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:26:24,862 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:26:24,875 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:26:24,890 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:26:24,898 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.9890416666667
+2024-04-23 21:26:24,899 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.5399861111111
+2024-04-23 21:26:24,903 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:26:24,916 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:26:25,815 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:26:25,818 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:26:30,151 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:26:44,733 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:26:44,739 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:26:44,743 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:26:44,745 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:26:44,746 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0388
+2024-04-23 21:26:44,747 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9054916666667
+2024-04-23 21:26:44,748 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:26:44,749 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:26:45,602 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:26:45,605 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:26:48,777 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:27:03,265 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:27:03,266 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:27:03,267 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:27:03,271 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:27:03,273 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0524527777778
+2024-04-23 21:27:03,274 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9815166666667
+2024-04-23 21:27:03,275 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:27:03,277 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:27:04,190 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:27:04,195 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:27:07,684 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:27:25,282 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:27:25,284 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:27:25,285 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:27:25,287 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:27:25,288 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.525925
+2024-04-23 21:27:25,290 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6195583333333
+2024-04-23 21:27:25,293 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:27:25,294 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:27:26,140 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:27:26,144 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:27:29,419 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:27:44,033 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:27:44,035 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:27:44,036 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:27:44,037 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:27:44,038 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.5320888888889
+2024-04-23 21:27:44,040 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6087027777778
+2024-04-23 21:27:44,041 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:27:44,041 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:27:44,912 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:27:44,917 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:27:47,896 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:27:59,538 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:27:59,539 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:27:59,541 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:27:59,542 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:27:59,544 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.860125
+2024-04-23 21:27:59,545 - climaAPI.climaMOD - INFO - Coor. Longitud: -57.9565777777778
+2024-04-23 21:27:59,547 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:27:59,549 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:28:00,383 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:28:00,388 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:28:03,465 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:28:20,986 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:28:20,987 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:28:20,988 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:28:20,989 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:28:20,990 - climaAPI.climaMOD - INFO - Coor. Latitude: -43.3607861111111
+2024-04-23 21:28:20,992 - climaAPI.climaMOD - INFO - Coor. Longitud: -65.1973944444444
+2024-04-23 21:28:20,993 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:28:20,994 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:28:21,813 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:28:21,816 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:28:24,637 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:28:42,983 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:28:42,984 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:28:42,985 - climaAPI.climaMOD - INFO - END
+2024-04-23 21:28:42,986 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 21:28:42,987 - climaAPI.climaMOD - INFO - Coor. Latitude: -45.8541666666667
+2024-04-23 21:28:42,988 - climaAPI.climaMOD - INFO - Coor. Longitud: -67.9518611111111
+2024-04-23 21:28:42,989 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 21:28:42,990 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 21:28:43,868 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 21:28:43,871 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 21:28:46,837 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 21:28:59,436 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 21:28:59,438 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 21:28:59,439 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:28:15,938 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 23:28:22,039 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:28:22,041 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 23:28:22,043 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 23:28:22,045 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-23 23:28:22,046 - climaAPI.climaMOD - INFO - Date To: 2024-04-21
+2024-04-23 23:28:22,990 - climaAPI.climaMOD - ERROR - HTTP Error 400: Bad Request
+2024-04-23 23:29:36,797 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 23:29:45,220 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:29:45,224 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 23:29:45,226 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 23:29:45,229 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-23 23:29:45,230 - climaAPI.climaMOD - INFO - Date To: 2024-04-21
+2024-04-23 23:29:46,138 - climaAPI.climaMOD - ERROR - HTTP Error 400: Bad Request
+2024-04-23 23:31:11,386 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 23:31:19,305 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:31:19,307 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 23:31:19,309 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 23:31:19,311 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:31:19,318 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:31:20,529 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:31:20,553 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:32:31,195 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-23 23:32:37,749 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:32:37,765 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-23 23:32:37,797 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-23 23:32:37,830 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:32:37,865 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:32:39,472 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:32:39,487 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:32:43,276 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:32:58,854 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:32:58,855 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:32:58,856 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:32:58,858 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:32:58,859 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.55825
+2024-04-23 23:32:58,861 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.3203777777778
+2024-04-23 23:32:58,862 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:32:58,865 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:32:59,846 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:32:59,861 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:33:03,281 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:33:20,867 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:33:20,869 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:33:20,871 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:33:20,872 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:33:20,874 - climaAPI.climaMOD - INFO - Coor. Latitude: -27.490836111111
+2024-04-23 23:33:20,875 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.9293
+2024-04-23 23:33:20,876 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:33:20,877 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:33:21,776 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:33:21,779 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:33:25,148 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:33:40,053 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:33:40,054 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:33:40,055 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:33:40,057 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:33:40,058 - climaAPI.climaMOD - INFO - Coor. Latitude: -29.41674
+2024-04-23 23:33:40,060 - climaAPI.climaMOD - INFO - Coor. Longitud: -66.8560077
+2024-04-23 23:33:40,061 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:33:40,063 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:33:40,865 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:33:40,869 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:33:44,281 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:33:56,769 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:33:56,771 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:33:56,773 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:33:56,776 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:33:56,778 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.710725
+2024-04-23 23:33:56,779 - climaAPI.climaMOD - INFO - Coor. Longitud: -60.7819277777778
+2024-04-23 23:33:56,781 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:33:56,782 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:33:57,624 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:33:57,626 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:34:00,554 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:34:25,535 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:34:25,560 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:34:25,585 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:34:25,601 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:34:25,633 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.977775
+2024-04-23 23:34:25,646 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.4944361111111
+2024-04-23 23:34:25,652 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:34:25,667 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:34:27,184 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:34:27,191 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:34:30,542 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:34:48,715 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:34:48,750 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:34:48,784 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:34:48,791 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:34:48,844 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.9890416666667
+2024-04-23 23:34:48,853 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.5399861111111
+2024-04-23 23:34:48,864 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:34:48,874 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:34:50,440 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:34:50,487 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:34:57,766 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:35:20,090 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:35:20,093 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:35:20,096 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:35:20,098 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:35:20,099 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0388
+2024-04-23 23:35:20,103 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9054916666667
+2024-04-23 23:35:20,105 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:35:20,107 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:35:21,036 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:35:21,039 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:35:23,718 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:35:44,730 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:35:44,732 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:35:44,734 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:35:44,737 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:35:44,742 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0524527777778
+2024-04-23 23:35:44,745 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9815166666667
+2024-04-23 23:35:44,747 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:35:44,750 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:35:45,675 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:35:45,802 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:35:50,368 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:36:17,098 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:36:17,362 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:36:18,013 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:36:18,318 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:36:18,401 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.525925
+2024-04-23 23:36:18,458 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6195583333333
+2024-04-23 23:36:18,557 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:36:18,624 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:36:19,957 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:36:19,993 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:36:24,736 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:36:53,497 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:36:53,606 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:36:53,627 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:36:53,682 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:36:53,725 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.5320888888889
+2024-04-23 23:36:53,741 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6087027777778
+2024-04-23 23:36:53,760 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:36:53,791 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:36:55,301 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:36:55,357 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:37:00,458 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:37:28,434 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:37:28,467 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:37:28,472 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:37:28,482 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:37:28,485 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.860125
+2024-04-23 23:37:28,495 - climaAPI.climaMOD - INFO - Coor. Longitud: -57.9565777777778
+2024-04-23 23:37:28,586 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:37:28,615 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:37:29,904 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:37:29,949 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:37:34,878 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:37:57,150 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:37:57,155 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:37:57,162 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:37:57,169 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:37:57,177 - climaAPI.climaMOD - INFO - Coor. Latitude: -43.3607861111111
+2024-04-23 23:37:57,182 - climaAPI.climaMOD - INFO - Coor. Longitud: -65.1973944444444
+2024-04-23 23:37:57,203 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:37:57,213 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:38:01,896 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:38:02,202 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:38:06,429 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:38:27,652 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:38:27,657 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:38:27,659 - climaAPI.climaMOD - INFO - END
+2024-04-23 23:38:27,675 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-23 23:38:27,682 - climaAPI.climaMOD - INFO - Coor. Latitude: -45.8541666666667
+2024-04-23 23:38:27,687 - climaAPI.climaMOD - INFO - Coor. Longitud: -67.9518611111111
+2024-04-23 23:38:27,688 - climaAPI.climaMOD - INFO - Date From: 2024-04-21
+2024-04-23 23:38:27,701 - climaAPI.climaMOD - INFO - Date To: 2024-04-22
+2024-04-23 23:38:29,073 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-23 23:38:29,092 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-23 23:38:50,427 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-23 23:39:11,004 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-23 23:39:11,013 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-23 23:39:11,015 - climaAPI.climaMOD - INFO - END
+2024-04-24 12:56:40,928 - climaAPI.climaMOD - INFO - Se configuro el LOGGING
+2024-04-24 12:56:47,447 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 12:56:47,489 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.1572611111111
+2024-04-24 12:56:47,506 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.5537027777778
+2024-04-24 12:56:47,515 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 12:56:47,517 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 12:56:48,646 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 12:56:48,671 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 12:56:52,523 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 12:57:06,596 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 12:57:06,598 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 12:57:06,600 - climaAPI.climaMOD - INFO - END
+2024-04-24 12:57:06,602 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 12:57:06,605 - climaAPI.climaMOD - INFO - Coor. Latitude: -26.55825
+2024-04-24 12:57:06,606 - climaAPI.climaMOD - INFO - Coor. Longitud: -59.3203777777778
+2024-04-24 12:57:06,608 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 12:57:06,610 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 12:57:07,550 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 12:57:07,565 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 12:57:12,199 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 12:57:28,318 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 12:57:28,320 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 12:57:28,323 - climaAPI.climaMOD - INFO - END
+2024-04-24 12:57:28,326 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 12:57:28,330 - climaAPI.climaMOD - INFO - Coor. Latitude: -27.490836111111
+2024-04-24 12:57:28,335 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.9293
+2024-04-24 12:57:28,337 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 12:57:28,341 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 12:57:29,388 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 12:57:29,392 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 12:57:32,220 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 12:57:46,993 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 12:57:46,994 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 12:57:46,996 - climaAPI.climaMOD - INFO - END
+2024-04-24 12:57:46,997 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 12:57:46,998 - climaAPI.climaMOD - INFO - Coor. Latitude: -29.41674
+2024-04-24 12:57:47,000 - climaAPI.climaMOD - INFO - Coor. Longitud: -66.8560077
+2024-04-24 12:57:47,001 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 12:57:47,002 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 12:57:47,882 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 12:57:47,886 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 12:57:51,623 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 12:58:10,244 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 12:58:10,246 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 12:58:10,248 - climaAPI.climaMOD - INFO - END
+2024-04-24 12:58:10,250 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 12:58:10,252 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.710725
+2024-04-24 12:58:10,253 - climaAPI.climaMOD - INFO - Coor. Longitud: -60.7819277777778
+2024-04-24 12:58:10,254 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 12:58:10,256 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 12:58:11,108 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 12:58:11,110 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 12:58:14,190 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 12:58:32,937 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 12:58:32,949 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 12:58:32,951 - climaAPI.climaMOD - INFO - END
+2024-04-24 12:58:32,954 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 12:58:32,957 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.977775
+2024-04-24 12:58:32,960 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.4944361111111
+2024-04-24 12:58:32,964 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 12:58:32,965 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 12:58:33,934 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 12:58:33,937 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 12:58:37,513 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 12:58:55,408 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 12:58:55,410 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 12:58:55,411 - climaAPI.climaMOD - INFO - END
+2024-04-24 12:58:55,412 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 12:58:55,413 - climaAPI.climaMOD - INFO - Coor. Latitude: -31.9890416666667
+2024-04-24 12:58:55,414 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.5399861111111
+2024-04-24 12:58:55,415 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 12:58:55,416 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 12:58:56,234 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 12:58:56,238 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 12:58:59,762 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 12:59:19,676 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 12:59:19,678 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 12:59:19,682 - climaAPI.climaMOD - INFO - END
+2024-04-24 12:59:19,684 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 12:59:19,686 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0388
+2024-04-24 12:59:19,687 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9054916666667
+2024-04-24 12:59:19,690 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 12:59:19,692 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 12:59:20,541 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 12:59:20,543 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 12:59:23,848 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 12:59:42,183 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 12:59:42,190 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 12:59:42,192 - climaAPI.climaMOD - INFO - END
+2024-04-24 12:59:42,195 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 12:59:42,198 - climaAPI.climaMOD - INFO - Coor. Latitude: -33.0524527777778
+2024-04-24 12:59:42,200 - climaAPI.climaMOD - INFO - Coor. Longitud: -68.9815166666667
+2024-04-24 12:59:42,202 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 12:59:42,205 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 12:59:43,086 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 12:59:43,091 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 12:59:45,941 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 13:00:03,691 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 13:00:03,693 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 13:00:03,695 - climaAPI.climaMOD - INFO - END
+2024-04-24 13:00:03,697 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 13:00:03,698 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.525925
+2024-04-24 13:00:03,699 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6195583333333
+2024-04-24 13:00:03,701 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 13:00:03,702 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 13:00:04,676 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 13:00:04,682 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 13:00:08,884 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 13:00:28,407 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 13:00:28,409 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 13:00:28,412 - climaAPI.climaMOD - INFO - END
+2024-04-24 13:00:28,426 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 13:00:28,443 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.5320888888889
+2024-04-24 13:00:28,445 - climaAPI.climaMOD - INFO - Coor. Longitud: -58.6087027777778
+2024-04-24 13:00:28,459 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 13:00:28,463 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 13:00:29,461 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 13:00:29,464 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 13:00:32,433 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 13:00:45,166 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 13:00:45,189 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 13:00:45,190 - climaAPI.climaMOD - INFO - END
+2024-04-24 13:00:45,193 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 13:00:45,195 - climaAPI.climaMOD - INFO - Coor. Latitude: -34.860125
+2024-04-24 13:00:45,196 - climaAPI.climaMOD - INFO - Coor. Longitud: -57.9565777777778
+2024-04-24 13:00:45,200 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 13:00:45,202 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 13:00:46,324 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 13:00:46,327 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 13:00:49,045 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 13:01:00,693 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 13:01:00,694 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 13:01:00,695 - climaAPI.climaMOD - INFO - END
+2024-04-24 13:01:00,697 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 13:01:00,700 - climaAPI.climaMOD - INFO - Coor. Latitude: -43.3607861111111
+2024-04-24 13:01:00,701 - climaAPI.climaMOD - INFO - Coor. Longitud: -65.1973944444444
+2024-04-24 13:01:00,702 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 13:01:00,703 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 13:01:02,627 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 13:01:02,687 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 13:01:06,369 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 13:01:33,472 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 13:01:33,473 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 13:01:33,474 - climaAPI.climaMOD - INFO - END
+2024-04-24 13:01:33,475 - climaAPI.climaMOD - INFO - Getting Weather Data
+2024-04-24 13:01:33,476 - climaAPI.climaMOD - INFO - Coor. Latitude: -45.8541666666667
+2024-04-24 13:01:33,478 - climaAPI.climaMOD - INFO - Coor. Longitud: -67.9518611111111
+2024-04-24 13:01:33,479 - climaAPI.climaMOD - INFO - Date From: 2024-04-22
+2024-04-24 13:01:33,480 - climaAPI.climaMOD - INFO - Date To: 2024-04-23
+2024-04-24 13:01:34,283 - climaAPI.climaMOD - INFO - Read Weather OK
+2024-04-24 13:01:34,285 - climaAPI.climaMOD - INFO - JSON->DF OK
+2024-04-24 13:01:37,438 - climaAPI.climaMOD - INFO - Connection - OK
+2024-04-24 13:01:49,935 - climaAPI.climaMOD - INFO - Reading Reg: 48
+2024-04-24 13:01:49,937 - climaAPI.climaMOD - INFO - Add Rows - OK
+2024-04-24 13:01:49,938 - climaAPI.climaMOD - INFO - END

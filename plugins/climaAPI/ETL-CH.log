@@ -1,0 +1,46 @@
+2024-04-08 13:39:37,625 - modules.clima - INFO - Se configuro el LOGGING
+2024-04-08 13:39:37,656 - modules.clima - INFO - Getting Weather Data
+2024-04-08 13:39:37,687 - modules.clima - INFO - Coor. Latitude: -34.709396
+2024-04-08 13:39:37,735 - modules.clima - INFO - Coor. Longitud: -58.279639
+2024-04-08 13:39:37,888 - modules.clima - INFO - Date From: 2024-04-06
+2024-04-08 13:39:37,933 - modules.clima - INFO - Date To: 2024-04-07
+2024-04-08 13:39:42,119 - modules.clima - INFO - Read Weather OK
+2024-04-08 13:39:43,712 - modules.clima - INFO - JSON->DF OK
+2024-04-08 13:39:55,207 - modules.clima - ERROR - (psycopg2.OperationalError) connection to server at "data-engineer-cluster.cyhh5bfevlmn.us-east-1.redshift.amazonaws.com" (52.44.43.227), port 5439 failed: FATAL:  password authentication failed for user "XXXXXX"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2024-04-08 13:45:04,374 - modules.clima - INFO - Se configuro el LOGGING
+2024-04-08 13:45:04,378 - modules.clima - INFO - Getting Weather Data
+2024-04-08 13:45:04,382 - modules.clima - INFO - Coor. Latitude: -34.709396
+2024-04-08 13:45:04,386 - modules.clima - INFO - Coor. Longitud: -58.279639
+2024-04-08 13:45:04,387 - modules.clima - INFO - Date From: 2024-04-06
+2024-04-08 13:45:04,390 - modules.clima - INFO - Date To: 2024-04-07
+2024-04-08 13:45:05,383 - modules.clima - INFO - Read Weather OK
+2024-04-08 13:45:05,397 - modules.clima - INFO - JSON->DF OK
+2024-04-08 13:45:07,165 - modules.clima - ERROR - (psycopg2.OperationalError) connection to server at "data-engineer-cluster.cyhh5bfevlmn.us-east-1.redshift.amazonaws.com" (52.44.43.227), port 5439 failed: FATAL:  password authentication failed for user "XXXXXX"
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2024-04-08 13:54:04,122 - modules.clima - INFO - Se configuro el LOGGING
+2024-04-08 13:54:04,124 - modules.clima - INFO - Getting Weather Data
+2024-04-08 13:54:04,125 - modules.clima - INFO - Coor. Latitude: -34.709396
+2024-04-08 13:54:04,127 - modules.clima - INFO - Coor. Longitud: -58.279639
+2024-04-08 13:54:04,129 - modules.clima - INFO - Date From: 2024-04-06
+2024-04-08 13:54:04,140 - modules.clima - INFO - Date To: 2024-04-07
+2024-04-08 13:54:05,247 - modules.clima - INFO - Read Weather OK
+2024-04-08 13:54:05,260 - modules.clima - INFO - JSON->DF OK
+2024-04-08 13:54:09,637 - modules.clima - INFO - Connection - OK
+2024-04-08 13:54:21,929 - modules.clima - INFO - Reading Reg: 48
+2024-04-08 13:54:21,944 - modules.clima - INFO - Add Rows - OK
+2024-04-08 13:54:21,949 - modules.clima - INFO - END
+2024-04-09 00:00:09,325 - modules.clima - INFO - Se configuro el LOGGING
+2024-04-09 00:00:09,329 - modules.clima - INFO - Getting Weather Data
+2024-04-09 00:00:09,331 - modules.clima - INFO - Coor. Latitude: -34.709396
+2024-04-09 00:00:09,333 - modules.clima - INFO - Coor. Longitud: -58.279639
+2024-04-09 00:00:09,335 - modules.clima - INFO - Date From: 2024-04-07
+2024-04-09 00:00:09,341 - modules.clima - INFO - Date To: 2024-04-08
+2024-04-09 00:00:10,371 - modules.clima - INFO - Read Weather OK
+2024-04-09 00:00:10,408 - modules.clima - INFO - JSON->DF OK
+2024-04-09 00:00:13,541 - modules.clima - INFO - Connection - OK
+2024-04-09 00:00:26,416 - modules.clima - INFO - Reading Reg: 48
+2024-04-09 00:00:26,419 - modules.clima - INFO - Add Rows - OK
+2024-04-09 00:00:26,423 - modules.clima - INFO - END
